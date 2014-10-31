@@ -1,0 +1,17 @@
+{
+  "name": "Atelier-Socket.IO",
+  "version": "0.0.1",
+  "homepage": "",
+  "description": "Lightweight chat solution with Socket.IO / Node.JS",
+  "main": "bin/index.js",
+  "keywords": [
+    "chat"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.12.2",
+    "serve-static": "^1.9.1",
+    "socket.io": "^1.3.5"
+  },
+  "scripts": {}
+}

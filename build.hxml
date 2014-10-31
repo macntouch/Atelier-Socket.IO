@@ -1,0 +1,12 @@
+#Client
+-main client.Main
+-cp src
+-lib js-kit
+-js bin/public/main.js
+
+--next
+#Server
+-main server.Main
+-cp src
+-lib js-kit
+-js bin/index.js
